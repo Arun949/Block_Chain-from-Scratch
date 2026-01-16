@@ -1,7 +1,3 @@
-Perfect 👍
-Below is a clean, professional, ready-to-paste README.md for your Blockchain from Scratch GitHub repository.
-
-You can copy–paste this directly into README.md.
 
 
 # 🚀 Blockchain from Scratch (Python)
